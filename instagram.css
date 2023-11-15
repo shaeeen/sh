@@ -1,0 +1,144 @@
+
+.root{
+    width:100%;
+    height: 700px;
+    background: #ebedf0;
+    margin-top: -125px;
+    
+}
+.left{
+    width: 50%;
+    height: 80%;
+    
+ 
+}
+.logo{
+    width: 100px;
+    height: 50px;
+    margin-left: 230px;
+    margin-top: 122px;
+    padding-top: 180px;
+
+}
+.text{
+    width: 650px;
+    padding-left: 270px;
+    padding-top: 80px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+}
+.right{
+    width: 400px;
+    height: 330px;
+    background-color: white;
+    margin-left: 965px;
+    margin-top: -380px;
+    border-radius: 8px;
+  
+    
+}
+.mail{
+    margin-left: 8px;
+     padding-top: 10px;
+     height: 40px;
+     font-family: Helvetica, Arial, sans-serif;
+     text-align: justify;
+     margin-top: 5px;
+     border: solid 1px;
+     border-radius: 5px;
+     border-color: grey;
+     text-size-adjust: 100px;
+ }
+    
+    
+
+.password{
+    margin-left: 8px;
+     padding-top: 10px;
+     height: 40px;
+     font-family: Helvetica, Arial, sans-serif;
+     text-align: justify;
+     margin-top: 5px;
+     border: solid 1px;
+     border-radius: 5px;
+     border-color: grey;
+     text-size-adjust: 100px;
+}
+.button{
+    color: #fff;
+    background-color: #387df5;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    width: 150px;
+    display: flex;
+    padding-inline: 140px;
+    margin-top: 15px;
+    margin-left: 27px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 8px;
+    padding-right: 47px;
+}
+.forgotten{
+    color: #387df5 ;
+    margin-left: 134px;
+}
+.under{
+    width: 373px;
+    margin-left: 13px;
+    height: 1px;
+    background-color: rgb(133, 129, 129);
+}
+.newaccount{
+    background-color:#31b60c;
+    margin-left: 40px;
+    margin-top: 25px;
+    padding-inline: 73px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+    border: saddlebrown;
+    font-size: larger;
+    font-weight: 600;
+    color: white;
+}
+.page{
+    
+        display: flex;
+        margin-left: 1000px;
+        margin-top: 10px;
+        font-weight: 700;
+        color: black;
+        text-decoration: none;
+        font-size: large;
+    
+}
+.for{display: flex;
+    margin-left: 1112px;
+    margin-top: -18px;}
+.footer{
+    width: 100%;
+    height: 300px;
+}
+.lang{
+    
+        margin-left: 340px;
+        display: flex;
+        margin-top: 178px;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: small;
+        font-weight: 400;
+        color: gray;
+}
+.und{
+    width: 70%;
+    background-color: beige
+
+}
+.etc{
+    margin-left: 329px;
+    font-size: smaller;
+    font-weight: 500;
+    color: grey;
+}
