@@ -1,0 +1,235 @@
+body{
+    width: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: black;
+}
+.left-top{
+    width: 400px;
+    height: 200px;
+    margin-left: 4px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: #2F3030;
+}
+.logo{    width: 46px;
+    padding-top: 0px;
+    display: block;
+    padding-left: 10px;
+
+}
+.logo-name{
+    color: white;
+    margin-left: 63px;
+    margin-bottom: -53px;
+    display: flex;
+    padding-top: 1px;
+    margin-top: -59px;
+}
+
+.home{
+    display: block;
+    width: 46px;
+    color: #2F3034;
+    padding-top: 0pxpx;
+    padding-left: 10px;
+    margin-top: 75px;
+}
+.home-text{
+    color: white;
+    width: 20px;
+    margin-left: 66px;
+    margin-top: -29px;
+    cursor: pointer;
+
+}
+.search{
+    width: 39px;
+    color: white;
+    padding-left: 14px;
+    padding-top: 9px;cursor: pointer;
+    margin-top: 3px;
+
+}
+.search-text{
+    color: white;
+    margin-left: 66px;
+    margin-top: -38px;
+    cursor: pointer;
+}
+.top-right{
+    width: 1081px;
+    height: 58px;
+    margin-left: 418px;
+    margin-top: -191px;
+    background-color: #2F3034;
+    border-radius: 7px;
+}
+
+.lg-button{
+    
+    color:grey;
+    margin-left: 860px;
+    width: 97px;
+    margin-top: 13px;
+    background-color: #2F3036;
+    border-style: hidden;
+    color: #6B6E88;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+
+.login{
+    color:black ;
+    background-color: white;
+    margin-top: -12px;
+    margin-left: -10px;
+    border-radius: 16px;
+    width: 79px;
+    height: 31px;
+    font-weight: bold;
+    cursor: pointer;
+   
+}
+.left-bottom{
+    width: 400px;
+
+    background-color: red;
+    margin-top: 153px;
+    height: 200px;
+    background-color: #212020;6;
+    border-radius: 11px;
+}
+.library{
+    margin-top: 10px;
+    width: 35px;
+    margin-left: 14px;
+}
+
+.lib{
+    color: white;
+    margin-left: 71px;
+    display: flex;
+    margin-top: -33px;
+    font-size: larger;
+    
+}
+.podcast{
+    width: 350px;
+    height: 100px;
+    border-radius: 10px;
+    width: 375px;
+    margin-left: 11px;
+    height: 138px;
+    background-color: #2F3036;
+}
+.text{
+    color: white;
+    margin-left: 53px;
+    padding-top: 15px;
+}
+.text-ep{color: white;
+    margin-left: 30px;
+
+
+}
+.browse{
+    width: 122px;
+    padding-top: 8px;
+    font-weight: 700;
+    height: 35px;
+    display: flex;
+    margin-left: 125px;
+    border-radius: 20px;
+    border: medium;
+    color:black;
+    cursor: pointer;
+
+
+}
+.left-footer{
+    width: 400px;
+    height: 450px;
+    background-color:#2F3036; 
+    width: 399px;
+    height: 260px;
+    border-radius: 11px;
+    margin-top: 4px;
+}
+.footer-text{
+    color: grey;
+    margin-left: 56px;
+    padding-top: 40px;
+    font-size: medium;
+
+}
+.lang{
+    margin-left: 139px;
+    width: 94px;
+    height: 39px;
+    border-radius: 67px;
+    border: hidden;
+    margin-top: 60px;
+    cursor: pointer;
+}
+.right{
+    width: 60%;
+    height: 600px;
+    background-color: #2F3036;
+    margin-left: 418px;
+    width: 271%;
+    margin-top: -622px;
+    height: 616px;
+    border-radius: 6px;
+}
+.head{
+    color: white;
+    margin-inline-start: 15px;
+
+}
+.playlist{
+    width: 396px;
+}
+.comp{    color: white;
+    margin-left: 34px;
+    margin-top: 34px;
+
+}
+.abt{
+    color: grey;
+    
+    font-size: medium;
+    font-weight: 500;
+        margin-left: 43px;
+        cursor: pointer;
+        
+    }
+    .community{  
+     color: white;
+     margin-left: 257px;
+     margin-top: -164px;
+    }
+    .art{    color: grey;
+        margin-left: 277px;
+        font-size: medium;
+        font-weight: 500;
+        cursor: pointer;
+
+    }
+.use{
+    color: white;
+    margin-left: 488px;
+    margin-top: -166px;
+}
+.supp{
+    color: grey;
+    margin-left: 496px;
+    font-size: medium;
+    font-weight: 500;
+    cursor: pointer;
+
+}
+
+
